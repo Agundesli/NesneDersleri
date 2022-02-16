@@ -1,0 +1,58 @@
+-------------Eğitim1 Notlarım-----------------------
+class seviyesindeki varsayılan erişim private dır
+
+encapsülation derki bir class içindeki değişkenleri dışarıya kapat
+
+saklı procedure'lar geriye sadece int döndürür farklı ihtiyaç varsa out gerekir
+
+void oud halde geriye değer döndürebilir. TryParse gerekir ki out in result ile döndürür.
+
+---------------------------------------------------------
+//string _perAd;
+        public string PerAd
+        {
+            get { return _perAd; }
+            set { _perAd = value; }
+	}
+Özellik propertyde aslında metotdur arka planda 
+----------------------------------------------------------
+//        public decimal Maas { get; set; } 
+prop olarak yapıncada değişkenin tipinde arka planda yer açar.
+--------------------constructor--------------------------
+İmzası farklı olduğu sürece n tane constructor oluşturulabilir(imza= veri tipi ve parametre sayısı)
+ben hiç oluşturmasamda default constructor olarak constroctur'ı oluşturur
+1 class ta 1 tane yıkıcı constructor olabilir
+
+
+
+**this nerelerde kullanılır
+1) ctor yanında :this() varsa clasın parametlereleri arasında aktarım yapar.
+2) ctor yanında :base() olursa üst sınıflar arasında aktarım yapar
+3) metod
+4) extensionlarda genişletmek için
+
+-----------------------------------------------------------
+//6-readonly => değiştirebilirim o da ctor tek değiştirilecek yer ctordur
+//7-const => asla değiştiremem
+//Math değerinden bakarsak sabitlerde kullanılmıştır.
+
+
+
+---------------Notasyonlar--------------------------
+1) Hangarion Not => İsimlendirme yaparken ilk 3 harfi yapılan iş (işin tipi) ile ilgili olmalı => (buton kaydetme için ) btnKaydet gibi / cmbSecim combobox için mesela
+2) Camel Not     => JavaScript te yaygındır => İlk harf küçük sonrası büyük harf yazılır => documentWrite() / musteriEkle() / faturaKes() / enBuyukSayi
+3) Pascal Not    => C# ta yaygındır => Kelimelerin ilk harfleri büyüktür => metot->PersonelEkle() / class -> Personel
+4) Snoke Not     => iki kelime arasına alt çizgi küçük harf => buyuk_sayi 
+5) Kebap Not     => iki kelime arasına orta çizgi küçük harf => buyuk-sayi 
+
+
+.Nette bellek üçe ayrılır 
+stack
+heap
+static
+new lediğimde yani instıns aldığımda stack tan heap a geçer ve (değer tipten referans tipe geçer) değeri varken adrese dönüşür artık.
+
+// f5 ile ctrl+f5 arasındaki fark ?
+*F5= Debug moduyla kontrol ederek çalıştırır.
+*ctrl+f5= Debugsız olarak çalışır.Hata ayıklamadan
+//Debug => Hata 

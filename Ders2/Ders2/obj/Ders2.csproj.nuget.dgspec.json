@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders2\\Ders2\\Ders2.csproj": {}
+    "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\NesneDersleri\\Ders2\\Ders2\\Ders2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders2\\Ders2\\Ders2.csproj": {
+    "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\NesneDersleri\\Ders2\\Ders2\\Ders2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders2\\Ders2\\Ders2.csproj",
+        "projectUniqueName": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\NesneDersleri\\Ders2\\Ders2\\Ders2.csproj",
         "projectName": "Ders2",
-        "projectPath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders2\\Ders2\\Ders2.csproj",
-        "packagesPath": "C:\\Users\\303ABDULLAH_SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders2\\Ders2\\obj\\",
+        "projectPath": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\NesneDersleri\\Ders2\\Ders2\\Ders2.csproj",
+        "packagesPath": "C:\\Users\\A_GUNDESLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\NesneDersleri\\Ders2\\Ders2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\303ABDULLAH_SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A_GUNDESLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
