@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
 
 namespace Ders3
 {
@@ -13,9 +15,28 @@ namespace Ders3
         }
     }
 
+    static class VeriTabani
+    {
+        public static void Kaydet()//static class içindeki herşey static olmalıdır
+        {
+            VeriTabani.Kaydet();
+            Baglan baglan = new Baglan();
+            //baglan.//ConnectionString yok
+            Baglan.ConnectionString("nfejfbej");
 
+            int[] sayılar = { 45, 45, 78, 78 };
+            //sayılar.sort//
+            //Array.Sort
+            //StreamWriter
+        }
+    }
+    class Baglan
+    {
+        public static void ConnectionString(string str)
+        {
 
-
+        }
+    }
 
     class Program
     {
@@ -56,8 +77,60 @@ namespace Ders3
 
             Personel personel = new Personel();
             Mudur mudur = new Mudur();
+
+
+            //Sekil sekil = new Sekil();//abstract sınıf new edilemez
+
+            _Say say = new _Say();
+            _Say say1 = new _Say();
+            _Say say2 = new _Say();
+
         }
     }
+
+    class _Say
+    {
+       static int sayac = 0;
+        public _Say()
+        {
+            sayac++;
+            Console.WriteLine(sayac);
+        }
+
+        ~_Say()
+        {
+            sayac--;
+            Console.WriteLine(sayac);
+        }
+    }
+
+
+
+   abstract class Sekil
+    {
+        public string Renk { get; set; }
+    }
+    class _Dairee:Sekil
+    {
+
+    }
+    class _Silindirr:_Dairee
+    {
+
+    }
+    sealed class _Konii:_Silindirr
+    {
+
+    }
+
+    //class _KesikKonii:_Konii//_Konii sealed olduğu için türetme vermez
+    //{
+
+    //}
+
+
+
+
 
     class Personel
     {
@@ -67,7 +140,6 @@ namespace Ders3
         }
 
     }
-
     class Mudur : Personel 
     {
         public Mudur()
@@ -93,15 +165,9 @@ namespace Ders3
     {
         public Er()
         {
-
+            
         }
     }
-
-
-
-
-
-
 
     class Circle 
     {
@@ -115,7 +181,6 @@ namespace Ders3
             return Math.PI * yc * yc;
         }
     }
-
     class Cylinder :Circle
     {
         protected double yuk;
