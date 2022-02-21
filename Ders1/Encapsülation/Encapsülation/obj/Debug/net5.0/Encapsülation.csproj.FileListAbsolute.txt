@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\bin\Debug\net5.0\Encapsülation.exe
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\bin\Debug\net5.0\Encapsülation.deps.json
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\bin\Debug\net5.0\Encapsülation.runtimeconfig.json
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\bin\Debug\net5.0\Encapsülation.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\bin\Debug\net5.0\Encapsülation.dll
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\bin\Debug\net5.0\ref\Encapsülation.dll
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\bin\Debug\net5.0\Encapsülation.pdb
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.dll
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\ref\Encapsülation.dll
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.pdb
+C:\Users\A_GUNDESLI\Desktop\Object Oriented Programming\Encapsülation\Encapsülation\obj\Debug\net5.0\Encapsülation.genruntimeconfig.cache
