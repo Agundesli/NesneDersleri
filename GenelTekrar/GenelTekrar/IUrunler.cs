@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GenelTekrar
 {
-    interface IUrunler
+     public interface IUrunler
     {
+        void Add();
+        void Listele();
     }
 }

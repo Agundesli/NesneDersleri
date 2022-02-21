@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GenelTekrar
 {
-    interface ISKTARİH
+    public interface ISKTarih
     {
     }
 }
