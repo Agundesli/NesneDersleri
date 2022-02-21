@@ -4,10 +4,6 @@ using System.Text;
 
 namespace Ders3
 {
-    class Deneme
-    {
-       
-    }
     class Daire
     {
         public double r  { get; set; }
