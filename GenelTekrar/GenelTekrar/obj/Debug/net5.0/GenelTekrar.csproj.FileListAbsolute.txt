@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\bin\Debug\net5.0\GenelTekrar.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\bin\Debug\net5.0\GenelTekrar.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\bin\Debug\net5.0\GenelTekrar.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\bin\Debug\net5.0\GenelTekrar.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\bin\Debug\net5.0\GenelTekrar.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\bin\Debug\net5.0\ref\GenelTekrar.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\bin\Debug\net5.0\GenelTekrar.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\ref\GenelTekrar.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\GenelTekrar\GenelTekrar\obj\Debug\net5.0\GenelTekrar.genruntimeconfig.cache
