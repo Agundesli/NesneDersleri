@@ -16,9 +16,10 @@ namespace GenelTekrar
         {
             Console.WriteLine("Urun Eklendi...");
         }
-
+            
         public IEnumerator GetEnumerator()
         {
+
         }
 
         public void Listele()
