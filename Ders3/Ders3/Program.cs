@@ -10,6 +10,7 @@ namespace Ders3
         {
             Depo depo = new Depo();
             depo[0] = "Abdullah";
+            Console.WriteLine(depo[0]);
 
             string strMessage = "Hello";
             for (int i = 0; i < strMessage.Length; i++)
@@ -20,25 +21,27 @@ namespace Ders3
 
             Soldier soldier = new Soldier();
             Er er = new Er();
+            
 
 
             Daire daire = new Daire() { r = 3 };
-            Console.WriteLine(daire.DaireAlan());
+            Console.WriteLine("d: "+daire.DaireAlan());
 
-            Silindir silindir = new Silindir() { r = 3, h = 10 };//obhect initialize
-            Console.WriteLine(silindir.SilindirAlan());
+            Silindir silindir = new Silindir() {r=3, h=10} ;//obhect initialize
+            Console.WriteLine("s: "+silindir.SilindirAlan());
 
             Koni koni = new Koni() { r = 3, h = 10 };
-            Console.WriteLine(koni.KoniAlan());
+            Console.WriteLine("k: "+koni.KoniAlan());
 
+            Console.WriteLine("-----------------------------------------------------");
 
             Circle circle = new Circle(3) ;
             Console.WriteLine(circle.AlanHesap());
 
-            Cyclinder cyclinder = new Cyclinder(3,10);//obhect initialize
+            Circle cyclinder = new Cyclinder(3,10);//obhect initialize
             Console.WriteLine(cyclinder.AlanHesap());
 
-            Parcel parcel = new Parcel(3,10);
+            Circle parcel = new Parcel(3,10);
             Console.WriteLine(parcel.AlanHesap());
 
 

@@ -13,5 +13,7 @@ namespace Ders3
             get { return _store[indis]; }
             set { _store[indis] = value; }
         }
+
+        public int Length { get; internal set; }
     }
 }

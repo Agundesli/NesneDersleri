@@ -4,10 +4,12 @@ using System.Text;
 
 namespace Ders3
 {
-    class Daire
+
+     class Daire
     {
-        public double r  { get; set; }
-        public double DaireAlan()
+
+        public double r { get; set; }
+        public virtual double DaireAlan()
         {
             return Math.PI * r * r;
         }
@@ -19,12 +21,13 @@ namespace Ders3
         {
             return base.DaireAlan() * h;
         }
+
     }
     class Koni:Silindir
     {
         public double KoniAlan()
         {
-            return (base.SilindirAlan()/3);
+            return (base.SilindirAlan() / 3);
         }
     }
 }
