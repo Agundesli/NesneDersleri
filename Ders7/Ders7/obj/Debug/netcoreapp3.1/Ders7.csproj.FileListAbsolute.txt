@@ -1,0 +1,14 @@
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\bin\Debug\netcoreapp3.1\Ders7.exe
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\bin\Debug\netcoreapp3.1\Ders7.deps.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\bin\Debug\netcoreapp3.1\Ders7.runtimeconfig.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\bin\Debug\netcoreapp3.1\Ders7.runtimeconfig.dev.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\bin\Debug\netcoreapp3.1\Ders7.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\bin\Debug\netcoreapp3.1\Ders7.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders7\Ders7\obj\Debug\netcoreapp3.1\Ders7.genruntimeconfig.cache
