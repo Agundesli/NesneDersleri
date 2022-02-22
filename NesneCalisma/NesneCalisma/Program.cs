@@ -16,22 +16,17 @@ namespace NesneCalisma
             market.UrunEkle(new Yumurta { Id = 51, UrunAdi = "30'lu yumurta", Fiyat = 40, Kirik = false, SKT = DateTime.Parse("19/02/2022")});
             market.UrunEkle(new Yumurta { Id = 61, UrunAdi = "15'li Yumurta", Fiyat = 20, Kirik = false, SKT = DateTime.Parse("28/02/2022") });
 
-            //Urun Listele
-            Console.WriteLine("Tüm");
+
+            Console.WriteLine("Tüm Ürünler");
             foreach (var item in market.TumUrunler())
             {
                 Console.WriteLine(item);
             }
-
-            Console.WriteLine();
             Console.WriteLine("Kırıklar");
-            //Kırık Uurunler
             foreach (var item in market.kirikUrunler())
             {
                 Console.WriteLine(item);
             }
-            //Bozuk Urunler
-            Console.WriteLine();
             Console.WriteLine("Bozuklar");
             foreach (var item in market.bozukUurunler())
             {
