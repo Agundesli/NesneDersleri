@@ -1,0 +1,14 @@
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\bin\Debug\netcoreapp3.1\NesneCalisma.exe
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\bin\Debug\netcoreapp3.1\NesneCalisma.deps.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\bin\Debug\netcoreapp3.1\NesneCalisma.runtimeconfig.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\bin\Debug\netcoreapp3.1\NesneCalisma.runtimeconfig.dev.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\bin\Debug\netcoreapp3.1\NesneCalisma.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\bin\Debug\netcoreapp3.1\NesneCalisma.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\NesneCalisma\NesneCalisma\obj\Debug\netcoreapp3.1\NesneCalisma.genruntimeconfig.cache
