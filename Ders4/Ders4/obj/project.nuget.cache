@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7OT/7tTNQBereyISAhN/ijlhAKCZstfgZxQQtDyLvtMi/2+kZ9J2Pq61GjhRuV4DL4GoJnSvEbPElYK0L+T5/g==",
+  "dgSpecHash": "X8hkX8Bw1Fei7CdxFHIHrPk9aI36EssthS9CHDIW6y1iMnCESZrBBOCw/s9FrV7zB9VF6bh12excYNRJFn/tbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders4\\Ders4\\Ders4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\NesneDersleri\\Ders4\\Ders4\\Ders4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A_GUNDESLI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
