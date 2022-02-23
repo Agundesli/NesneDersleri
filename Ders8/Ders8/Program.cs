@@ -35,11 +35,41 @@ namespace Ders8
 
         static void Main(string[] args)
         {
-            Isıtıcı ısıtıcı = new Isıtıcı();
-            ısıtıcı.Kabarcik += Isıtıcı_Kabarcik;
-            ısıtıcı.SesCikar += Isıtıcı_SesCikar;
-            ısıtıcı.Fokurda += Isıtıcı_Fokurda;
-            ısıtıcı.Calistir();
+            //Kapasitesi 10 olan bir depoya urun ekleme ve çıkarma işlemleri yapılacaktır.
+            //Deponun içinde urun kalmadığında veya depo dolduğunda çalışacak olayların
+            //tanımlanması istenmektedir.
+            //Ayrıca depo içerisindeki tüm ürünlerin listesini veren sınıfı yazınız?
+
+            Depo depo = new Depo(10);
+            depo.StoreFull += Depo_StoreFull;
+            depo.StoreVacant += Depo_StoreVacant;
+            Product product = new Product() { ProId = 123, ProName = "Kalem", Price = 55 };
+            for (int i = 0; i < 13; i++)
+            {
+                depo.Add(product);
+                foreach (var item in depo)
+                {
+                    Console.WriteLine(item);
+
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("*******************************************************************************");
+            for (int i = 0; i < 15; i++)
+            {
+                depo.Release(product);
+                foreach (var item in depo)
+                {
+                    Console.WriteLine(item);
+                }
+                Console.WriteLine();
+            }
+
+           // Isıtıcı ısıtıcı = new Isıtıcı();
+           // ısıtıcı.Kabarcik += Isıtıcı_Kabarcik;
+           // ısıtıcı.SesCikar += Isıtıcı_SesCikar;
+           // ısıtıcı.Fokurda += Isıtıcı_Fokurda;
+           // ısıtıcı.Calistir();
 
            // Temsilci temsilci = new Temsilci(MetotA);
            // temsilci += new Temsilci(MetotB);
@@ -60,7 +90,7 @@ namespace Ders8
            // Predicate<int> p = new Predicate<int>(TekSayiMi);
            // Yaz(sayilar.FindAll(p));
            // //yöntem2
-           // Yaz(sayilar.FindAll(TekSayiMi));
+           //  Yaz(sayilar.FindAll(TekSayiMi));
            // //Anonim metot
            // Temsil t = delegate ()
            //  {
@@ -74,16 +104,26 @@ namespace Ders8
            //}));
            // //yöntem4
            // Console.WriteLine("---------------------------------------------");
-           // //Yaz(sayilar.FindAll(s => s % 2 == 1));
+           // Yaz(sayilar.FindAll(s => s % 2 == 1));
 
 
-            //Events: Aslında bir pattern'dir.
-            //Amacı:Mekanızmayı kur ve çalışmasını izle.
-            //Nasıl çalıacak? Bu mekanızmayı delege ile kuruyoruz. Evenrler class memberlarıdır
-            //Console.WriteLine("--------------------------------------------------------------");
-            //Buton buton = new Buton();
-            //buton.Tikla += Buton_Tikla;
-            //buton.Calistir();
+        //Events: Aslında bir pattern'dir.
+        //    Amacı: Mekanızmayı kur ve çalışmasını izle.
+        //    Nasıl çalıacak? Bu mekanızmayı delege ile kuruyoruz.Evenrler class memberlarıdır
+        //    Console.WriteLine("--------------------------------------------------------------");
+        //    Buton buton = new Buton();
+        //buton.Tikla += Buton_Tikla;
+        //    buton.Calistir();
+        }
+
+        private static void Depo_StoreVacant(object sender, EventArgs e)
+        {
+            Console.WriteLine("Depo Boş");
+        }
+
+        private static void Depo_StoreFull(object sender, EventArgs e)
+        {
+            Console.WriteLine("Depo Dolu");
         }
 
         private static void Isıtıcı_Fokurda()
