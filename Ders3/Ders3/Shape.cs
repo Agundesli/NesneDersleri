@@ -36,7 +36,7 @@ namespace Ders3
         }
         public override double AlanHesap()
         {
-            return base.AlanHesap()*0.3333;
+            return base.AlanHesap()/3;
         }
     }
 }
