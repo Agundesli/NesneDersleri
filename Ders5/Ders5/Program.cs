@@ -6,18 +6,7 @@ using static Ders5.Interfaces;
 
 namespace Ders5
 {
-   
-    }
-    class Depo:IEnumerable
-    {
-        string[] _urunler = { "Urun1", "Urun2", "Urun3", "Urun4" };
-
-        public IEnumerator GetEnumerator()
-        {
-            return _urunler.GetEnumerator();
-        }
-    }
-    public enum Gunler {none, Pazartesi,Salı,Çarşamba,Perşembe,Cuma,Cumartesi,Pazar}
+    public enum Gunler { none, Pazartesi, Salı, Çarşamba, Perşembe, Cuma, Cumartesi, Pazar }
     class Hafta
     {
         public Gunler izin { get; set; }
@@ -26,41 +15,54 @@ namespace Ders5
     {
         static void Main(string[] args)
         {
-        ArrayList list1 = new ArrayList();
-        list1.Add(new Pelikan());
-        list1.Add(new Hamsi());
-        list1.Add(new Kedi());
-        list1.Add(new Penguen());
-        list1.Add(new Kanarya());
-        Console.WriteLine("All Animals");
-        Console.WriteLine("**********************************");
-        foreach (var item in list1)
-        {
-            Console.WriteLine(item);
-        }
-        Console.WriteLine("All Fly");
-        Console.WriteLine("**********************************");
-        foreach (var item in list1)
-        {
-            if (item is IUcabilir)
+            ArrayList list1 = new ArrayList();
+            list1.Add(new Pelikan());
+            list1.Add(new Hamsi());
+            list1.Add(new Kedi());
+            list1.Add(new Penguen());
+            list1.Add(new Kanarya());
+            Console.WriteLine("All Animals");
+            Console.WriteLine("**********************************");
+            foreach (var item in list1)
             {
                 Console.WriteLine(item);
             }
-        }
-        Deneme deneme = new Deneme();
-        deneme.IslemA();
-        deneme.IslemB();
-        MetotA metotA = new Deneme();
-        metotA.IslemA();
-        //metotA.IslemB();//IslemB deneme classına ait ınterface deneme classının referansını tutabilir ama metot,prop vs tutamaz.
-        Arac ferrari = new Ferrari();
-        Arac mercedes = new Mustang();
-        Arac bmx = new BMX();
-        Boyahane boyahane = new Boyahane();
-        boyahane.Boya(ferrari, ConsoleColor.Red);
-        boyahane.Boya(mercedes, ConsoleColor.Green);
+            Console.WriteLine("All Fly");
+            Console.WriteLine("**********************************");
+            foreach (var item in list1)
+            {
+                if (item is IUcabilir)
+                {
+                    Console.WriteLine(item);
+                }
+            }
+            Deneme deneme = new Deneme();
+            deneme.IslemA();
+            deneme.IslemB();
+            MetotA metotA = new Deneme();
+            metotA.IslemA();
+            //metotA.IslemB();//IslemB deneme classına ait ınterface deneme classının referansını tutabilir ama metot,prop vs tutamaz.
+            
+            
+            Arac ferrari = new Ferrari();
+            Arac mercedes = new Mustang();
+            Arac bmx = new BMX();
+            Boyahane boyahane = new Boyahane();
 
 
+
+            boyahane.Boya(ferrari, ConsoleColor.Red);
+            boyahane.Boya(mercedes, ConsoleColor.Green);
+            boyahane.Boya(bmx, ConsoleColor.Gray);
+            Depo depo = new Depo();
+            foreach (var item in depo)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            ArrayList arrayList = new ArrayList();
+            arrayList.AddRange()//ICollection interface ini implememte eden herhangibir şey gelebilir
 
             //Deneme deneme = new Deneme();
             //IArayuz deneme2 = new Deneme();
@@ -71,8 +73,7 @@ namespace Ders5
             //    Console.WriteLine(s);
             //}
             //**********************************************************************************************
-            //    ArrayList arrayList = new ArrayList();
-            //    arrayList.AddRange()//ICollection interface ini implememte eden herhangibir şey gelebilir
+
             //**********************************************************************************************
             //ArrayList arrayList = new ArrayList() { 45,33,56,4,22,17};
             //arrayList.Sort();
@@ -117,25 +118,10 @@ namespace Ders5
             //Hafta hafta = new Hafta();
             //hafta.izin = Gunler.Cuma;
             //hafta.izin = (Gunler)1;
-            //***********************************************************************************************
 
-            //Ferrari ferrari = new Ferrari();
-            //Mustang mustang = new Mustang();
-            //BMX bMX = new BMX();
-
-            //Boyahane boyahane = new Boyahane();
-            //boyahane.Boya(ferrari, ConsoleColor.Red);
-            //boyahane.Boya(mustang, ConsoleColor.Green);
-
-            //boyahane.Boya(bMX)
-
-            //***********************************************************************************************
-
-
-           
         }
     }
-    public enum Siralama { Idyegöre=1,Adagöre=2,Fiyatagöre=3};
+    public enum Siralama { Idyegöre = 1, Adagöre = 2, Fiyatagöre = 3 };
     class Karsilastir : IComparer
     {
         public Siralama Sirala { get; set; }
@@ -144,21 +130,21 @@ namespace Ders5
             Product p1 = (Product)x;
             Product p2 = (Product)y;
 
-            if (Sirala==Siralama.Idyegöre)
+            if (Sirala == Siralama.Idyegöre)
             {
                 return p1.ProId.CompareTo(p2.ProId);
             }
-            else if(Sirala==Siralama.Adagöre)
+            else if (Sirala == Siralama.Adagöre)
             {
                 return p1.ProName.CompareTo(p2.ProName);
             }
-            else  
+            else
             {
                 return p1.Price.CompareTo(p2.Price);
             }
         }
     }
-    class Urun:IComparable
+    class Urun : IComparable
     {
         public int UrunId { get; set; }
         public string UrunAdi { get; set; }
@@ -167,7 +153,7 @@ namespace Ders5
         public int CompareTo(object obj)
         {
             Urun urun = (Urun)obj;
-            return -1*UrunId.CompareTo(urun.UrunId);//*-1 tersten sırala
+            return -1 * UrunId.CompareTo(urun.UrunId);//*-1 tersten sırala
         }
         public override string ToString()
         {
@@ -181,6 +167,7 @@ namespace Ders5
         public int Price { get; set; }
         public override string ToString()
         {
-            return ProId+" "+ ProName+" " + Price;
+            return ProId + " " + ProName + " " + Price;
         }
     }
+}
