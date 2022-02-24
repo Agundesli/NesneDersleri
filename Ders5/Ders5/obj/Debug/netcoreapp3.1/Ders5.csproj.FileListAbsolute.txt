@@ -12,3 +12,17 @@ C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders5\Ders5\bin\Debug\ne
 C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.dll
 C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.pdb
 C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.genruntimeconfig.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.genruntimeconfig.cache
