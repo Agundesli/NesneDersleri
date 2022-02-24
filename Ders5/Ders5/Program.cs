@@ -1,92 +1,12 @@
-﻿using System;
+﻿using Ders5;
+using System;
 using System.Collections;
 using System.Threading;
+using static Ders5.Interfaces;
 
 namespace Ders5
 {
-    interface IYuzebilir
-    {
-        void Yuz();
-    }
-    interface IYuruyebilir
-    {
-        void Yuru();
-    }
-    interface IUcabilir
-    {
-        void Uc();
-    }
-    class Penguen : IYuruyebilir, IYuzebilir
-    {
-        public void Yuru()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Yuz()
-        {
-            throw new NotImplementedException();
-        }
-    }
-    class Kanarya : IUcabilir, IYuruyebilir
-    {
-        public void Uc()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Yuru()
-        {
-            throw new NotImplementedException();
-        }
-    }
-    class Pelikan : IYuzebilir, IYuruyebilir, IUcabilir
-    {
-        public void Uc()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Yuru()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Yuz()
-        {
-            throw new NotImplementedException();
-        }
-    }
-    class Hamsi : IYuzebilir
-    {
-        public void Yuz()
-        {
-            throw new NotImplementedException();
-        }
-    }
-    class Kedi : IYuruyebilir
-    {
-        public void Yuru()
-        {
-            throw new NotImplementedException();
-        }
-    }
-
-
-    interface IArayuz
-    {
-         void IslemA();
-    }
-    class Deneme:IArayuz
-    {
-        public void IslemA()
-        {
-
-        }
-        public void MetotA()
-        {
-
-        }
+   
     }
     class Depo:IEnumerable
     {
@@ -102,84 +22,46 @@ namespace Ders5
     {
         public Gunler izin { get; set; }
     }
-    public interface IBoyanabilir
-    {
-    }
-    class Boyahane
-    {
-        public void Boya(IBoyanabilir _arac,ConsoleColor _yeniRenk)
-        {
-            Araç araç = (Araç)_arac;
-            araç.Renk = _yeniRenk;
-            Console.ForegroundColor = araç.Renk;
-            Console.WriteLine(araç.GetType().Name+"Boyandı.. ");
-        }
-      
-    }
-    abstract class Araç
-    {
-        public ConsoleColor Renk { get; set; }
-        public Araç()
-        {
-
-            Random random = new Random();
-            Thread.Sleep(100);
-            Renk = (ConsoleColor)random.Next(1, 15);
-        }
-    }
-    class Ferrari:Araç,IBoyanabilir
-    {
-        public Ferrari()
-        {
-            Console.ForegroundColor = Renk;
-            Console.WriteLine("Ferrari");
-        }
-    }
-    class Mustang:Araç,IBoyanabilir
-    {
-        public Mustang()
-        {
-            Console.ForegroundColor = Renk;
-            Console.WriteLine("Mustang");
-        }
-    }
-    class BMX:Araç
-    {
-        public BMX()
-        {
-            Console.ForegroundColor = Renk;
-            Console.WriteLine("BMX");
-        }
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     class Program
     {
         static void Main(string[] args)
         {
+        ArrayList list1 = new ArrayList();
+        list1.Add(new Pelikan());
+        list1.Add(new Hamsi());
+        list1.Add(new Kedi());
+        list1.Add(new Penguen());
+        list1.Add(new Kanarya());
+        Console.WriteLine("All Animals");
+        Console.WriteLine("**********************************");
+        foreach (var item in list1)
+        {
+            Console.WriteLine(item);
+        }
+        Console.WriteLine("All Fly");
+        Console.WriteLine("**********************************");
+        foreach (var item in list1)
+        {
+            if (item is IUcabilir)
+            {
+                Console.WriteLine(item);
+            }
+        }
+        Deneme deneme = new Deneme();
+        deneme.IslemA();
+        deneme.IslemB();
+        MetotA metotA = new Deneme();
+        metotA.IslemA();
+        //metotA.IslemB();//IslemB deneme classına ait ınterface deneme classının referansını tutabilir ama metot,prop vs tutamaz.
+        Arac ferrari = new Ferrari();
+        Arac mercedes = new Mustang();
+        Arac bmx = new BMX();
+        Boyahane boyahane = new Boyahane();
+        boyahane.Boya(ferrari, ConsoleColor.Red);
+        boyahane.Boya(mercedes, ConsoleColor.Green);
+
+
+
             //Deneme deneme = new Deneme();
             //IArayuz deneme2 = new Deneme();
             //Depo depo = new Depo();
@@ -248,27 +130,9 @@ namespace Ders5
             //boyahane.Boya(bMX)
 
             //***********************************************************************************************
-            ArrayList arrayList = new ArrayList();
-            arrayList.Add(new Penguen());
-            arrayList.Add(new Pelikan());
-            arrayList.Add(new Hamsi());
-            arrayList.Add(new Kedi());
-            arrayList.Add(new Kanarya());
-            foreach (object obj in arrayList)
-            {
-                if (obj is IYuruyebilir)
-                {
-                    Console.WriteLine(obj.ToString());
-                }
-            }
-            Console.WriteLine("----------------------------------------------");
-            foreach (object ob in arrayList)
-            {
-                if (ob is IUcabilir)
-                {
-                    Console.WriteLine(ob.ToString());
-                }
-            }
+
+
+           
         }
     }
     public enum Siralama { Idyegöre=1,Adagöre=2,Fiyatagöre=3};
@@ -320,4 +184,3 @@ namespace Ders5
             return ProId+" "+ ProName+" " + Price;
         }
     }
-}
