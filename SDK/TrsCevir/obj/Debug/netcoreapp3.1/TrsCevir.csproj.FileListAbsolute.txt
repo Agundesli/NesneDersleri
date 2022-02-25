@@ -11,3 +11,16 @@ C:\Users\303ABDULLAH_SABAH\source\repos\SDK\TrsCevir\bin\Debug\netcoreapp3.1\SDK
 C:\Users\303ABDULLAH_SABAH\source\repos\SDK\TrsCevir\bin\Debug\netcoreapp3.1\SDK.pdb
 C:\Users\303ABDULLAH_SABAH\source\repos\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.csproj.CopyComplete
 C:\Users\303ABDULLAH_SABAH\source\repos\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\bin\Debug\netcoreapp3.1\TrsCevir.deps.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\bin\Debug\netcoreapp3.1\TrsCevir.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\bin\Debug\netcoreapp3.1\TrsCevir.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\bin\Debug\netcoreapp3.1\SDK.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\bin\Debug\netcoreapp3.1\SDK.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.csproj.CopyComplete
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\TrsCevir\obj\Debug\netcoreapp3.1\TrsCevir.pdb

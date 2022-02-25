@@ -11,3 +11,16 @@ C:\Users\303ABDULLAH_SABAH\source\repos\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.cspr
 C:\Users\303ABDULLAH_SABAH\source\repos\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.csproj.CopyComplete
 C:\Users\303ABDULLAH_SABAH\source\repos\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.dll
 C:\Users\303ABDULLAH_SABAH\source\repos\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\bin\Debug\netcoreapp3.1\Eko.deps.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\bin\Debug\netcoreapp3.1\Eko.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\bin\Debug\netcoreapp3.1\Eko.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\bin\Debug\netcoreapp3.1\SDK.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\bin\Debug\netcoreapp3.1\SDK.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.csproj.CopyComplete
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\Eko\obj\Debug\netcoreapp3.1\Eko.pdb

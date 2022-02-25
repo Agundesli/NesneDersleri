@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\303ABDULLAH_SABAH\\source\\repos\\SDK\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\SDK\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\303ABDULLAH_SABAH\\source\\repos\\SDK\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\SDK\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\303ABDULLAH_SABAH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\303ABDULLAH_SABAH\\source\\repos\\SDK\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\SDK\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\303ABDULLAH_SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\303ABDULLAH_SABAH\\source\\repos\\SDK\\SDK\\SDK.csproj": {
-              "projectPath": "C:\\Users\\303ABDULLAH_SABAH\\source\\repos\\SDK\\SDK\\SDK.csproj"
+            "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\SDK\\SDK\\SDK.csproj": {
+              "projectPath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\SDK\\SDK\\SDK.csproj"
             }
           }
         }

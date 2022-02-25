@@ -24,7 +24,7 @@ namespace WinFormsApp1
             ISDK efekt = efektler
                 [listBox1.SelectedItem.ToString()];
             label1.Text = efekt.Islem(textBox1.Text);
-            foreach (string dosya in Directory.GetFiles(@"C:\Users\303ABDULLAH_SABAH\source\repos\SDK\WinFormsApp1\bin\Debug\netcoreapp3.1\Pluggın"))
+            foreach (string dosya in Directory.GetFiles(@"C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\WinFormsApp1\bin\Debug\netcoreapp3.1\Pluggın"))
             {
                 //MessageBox.Show(dosya);
 
@@ -34,7 +34,7 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            foreach (string dosya in Directory.GetFiles(@"C:\Users\303ABDULLAH_SABAH\source\repos\SDK\WinFormsApp1\bin\Debug\netcoreapp3.1\Pluggın"))
+            foreach (string dosya in Directory.GetFiles(@"C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\SDK\WinFormsApp1\bin\Debug\netcoreapp3.1\Pluggın"))
             {
                 //MessageBox.Show(dosya);
                 Assembly assembly = Assembly.LoadFrom(dosya);
