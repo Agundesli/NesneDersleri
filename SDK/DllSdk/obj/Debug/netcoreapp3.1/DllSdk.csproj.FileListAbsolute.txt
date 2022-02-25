@@ -1,0 +1,14 @@
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\bin\Debug\netcoreapp3.1\DllSdk.exe
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\bin\Debug\netcoreapp3.1\DllSdk.deps.json
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\bin\Debug\netcoreapp3.1\DllSdk.runtimeconfig.json
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\bin\Debug\netcoreapp3.1\DllSdk.runtimeconfig.dev.json
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\bin\Debug\netcoreapp3.1\DllSdk.dll
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\bin\Debug\netcoreapp3.1\DllSdk.pdb
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.dll
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.pdb
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\DllSdk\obj\Debug\netcoreapp3.1\DllSdk.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.deps.json
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.dll
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\bin\Debug\netcoreapp3.1\SDK.pdb
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.dll
+C:\Users\303ABDULLAH_SABAH\source\repos\SDK\SDK\obj\Debug\netcoreapp3.1\SDK.pdb
