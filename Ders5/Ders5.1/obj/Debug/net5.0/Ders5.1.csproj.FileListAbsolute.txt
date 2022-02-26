@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\bin\Debug\net5.0\Ders5.1.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\bin\Debug\net5.0\Ders5.1.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\bin\Debug\net5.0\Ders5.1.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\bin\Debug\net5.0\Ders5.1.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\bin\Debug\net5.0\Ders5.1.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\bin\Debug\net5.0\ref\Ders5.1.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\bin\Debug\net5.0\Ders5.1.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\ref\Ders5.1.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\NesneDersleri\Ders5\Ders5.1\obj\Debug\net5.0\Ders5.1.genruntimeconfig.cache
