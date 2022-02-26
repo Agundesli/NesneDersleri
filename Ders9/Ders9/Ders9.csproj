@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Genel\Genel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Kimya">
+      <HintPath>..\..\Kimya\Kimya\bin\Debug\netcoreapp3.1\Kimya.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

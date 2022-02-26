@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders9\\Genel\\Genel.csproj": {
+                "projectPath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders9\\Genel\\Genel.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -56,6 +60,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders9\\Genel\\Genel.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders9\\Genel\\Genel.csproj",
+        "projectName": "Genel",
+        "projectPath": "C:\\Users\\303ABDULLAH_SABAH\\Documents\\GitHub\\Nesne_Ders1\\Ders9\\Genel\\Genel.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

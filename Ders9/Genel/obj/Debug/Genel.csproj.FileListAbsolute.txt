@@ -1,0 +1,6 @@
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders9\Genel\bin\Debug\Genel.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders9\Genel\bin\Debug\Genel.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders9\Genel\obj\Debug\Genel.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders9\Genel\obj\Debug\Genel.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders9\Genel\obj\Debug\Genel.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Ders9\Genel\obj\Debug\Genel.pdb

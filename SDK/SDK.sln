@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK", "SDK\SDK.csproj", "{AEA0320A-F869-489B-9211-4CC01A6F494F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllSdk", "DllSdk\DllSdk.csproj", "{AF8E4F83-D953-428D-A37A-E51AE3B756A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrsCevir", "TrsCevir\TrsCevir.csproj", "{5BC54315-7D8B-4052-B3E3-30F986B75171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KucukHarfeCevir", "KucukHarfeCevir\KucukHarfeCevir.csproj", "{D3C0DA45-EA29-413A-A9E4-50496DD3E8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyukHarfeCevir", "BuyukHarfeCevir\BuyukHarfeCevir.csproj", "{AD992B1D-025F-4D96-B130-927BD27D9561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eko", "Eko\Eko.csproj", "{FFA207E7-8BC7-4BC2-88B1-B48A42BFD64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{ECA15E64-0031-46B4-A89D-367C808B13F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA0320A-F869-489B-9211-4CC01A6F494F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA0320A-F869-489B-9211-4CC01A6F494F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA0320A-F869-489B-9211-4CC01A6F494F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA0320A-F869-489B-9211-4CC01A6F494F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8E4F83-D953-428D-A37A-E51AE3B756A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8E4F83-D953-428D-A37A-E51AE3B756A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8E4F83-D953-428D-A37A-E51AE3B756A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8E4F83-D953-428D-A37A-E51AE3B756A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC54315-7D8B-4052-B3E3-30F986B75171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC54315-7D8B-4052-B3E3-30F986B75171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC54315-7D8B-4052-B3E3-30F986B75171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC54315-7D8B-4052-B3E3-30F986B75171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C0DA45-EA29-413A-A9E4-50496DD3E8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C0DA45-EA29-413A-A9E4-50496DD3E8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C0DA45-EA29-413A-A9E4-50496DD3E8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C0DA45-EA29-413A-A9E4-50496DD3E8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD992B1D-025F-4D96-B130-927BD27D9561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD992B1D-025F-4D96-B130-927BD27D9561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD992B1D-025F-4D96-B130-927BD27D9561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD992B1D-025F-4D96-B130-927BD27D9561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA207E7-8BC7-4BC2-88B1-B48A42BFD64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA207E7-8BC7-4BC2-88B1-B48A42BFD64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA207E7-8BC7-4BC2-88B1-B48A42BFD64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA207E7-8BC7-4BC2-88B1-B48A42BFD64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA15E64-0031-46B4-A89D-367C808B13F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA15E64-0031-46B4-A89D-367C808B13F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA15E64-0031-46B4-A89D-367C808B13F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA15E64-0031-46B4-A89D-367C808B13F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3ABB1D-9D5F-4242-9500-37350C0D6F47}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\bin\Debug\netcoreapp3.1\Kimya.deps.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\bin\Debug\netcoreapp3.1\Kimya.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\bin\Debug\netcoreapp3.1\Kimya.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\obj\Debug\netcoreapp3.1\Kimya.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\obj\Debug\netcoreapp3.1\Kimya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\obj\Debug\netcoreapp3.1\Kimya.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\obj\Debug\netcoreapp3.1\Kimya.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\obj\Debug\netcoreapp3.1\Kimya.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\obj\Debug\netcoreapp3.1\Kimya.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Nesne_Ders1\Kimya\Kimya\obj\Debug\netcoreapp3.1\Kimya.pdb
